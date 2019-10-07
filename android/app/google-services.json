@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "72694312759",
+    "firebase_url": "https://word-power-made-easy-1926.firebaseio.com",
+    "project_id": "word-power-made-easy-1926",
+    "storage_bucket": "word-power-made-easy-1926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72694312759:android:80faea651eb77ea4",
+        "android_client_info": {
+          "package_name": "com.nl.wordpowermadeeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72694312759-7s04rqoq1katme56ndhfmf5b9l2d3da9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nl.wordpowermadeeasy",
+            "certificate_hash": "b5de6cfdd08531326e0a7ee3f5387f11c6cd9eb8"
+          }
+        },
+        {
+          "client_id": "72694312759-iovnas65pbilhdcn9fqa7n1kg02usa7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nl.wordpowermadeeasy",
+            "certificate_hash": "7bbb8f6f04edab72b79a9f6be6b14a0cd35eb7b5"
+          }
+        },
+        {
+          "client_id": "72694312759-5hljdolnffphsasaq7vc0v6f8m59v8cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHiknBcrQ88SpCzq8_NBOk_TZFhdpXgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72694312759-5hljdolnffphsasaq7vc0v6f8m59v8cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

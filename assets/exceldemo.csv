@@ -1,0 +1,643 @@
+ID,Name,Root,Meaning,example,session Id
+1,egoist,ego,me first,,1
+2,egotist,ego,the height of conceit,,1
+3,egocentric,ego,extreme born of egoist,,1
+4,egomaniac,ego,mobid obsession,,1
+5,altruist,alter,let me help you,,1
+6,altruism,alter,philosophy practiced by altruists,,1
+7,to alternate,alter,skip one-take other,,1
+8,to alter,alter,other,"to alter plans , to make other plans",1
+9,altercation,alter,verbal dispute,,1
+10,alteration,alter,a change,,1
+11,alternative,alter,other choice,,1
+12,alter ego,alter,your other self,,1
+13,introvert,verto,leave me alone,,2
+14,extrovert,verto,let's do it together,,2
+15,ambivert,verto,neither extreme,,2
+16,ambidextrous,verto,skilful,,2
+17,dexterous,verto,skilful,,2
+18,dexterity,verto,skill,,2
+19,misanthrope,miscin,people are no damn good,,2
+20,misogynist,miscin,hate woman,,2
+21,misogamist,miscin,hate marraiges,,2
+22,anthropolgy,anthropos,study of human race,,2
+23,philanthropist,anthropos,loves mankind,,2
+24,polygyny,,has band with more than one wife,,2
+25,monogamy,gamy,one marriage,,2
+26,bigamy,gamy,two marriage,,2
+27,pologamy,gamy,many marriage,,2
+28,polyandry,,woman has one of more husband,,2
+29,ascetic,asketes,devote to lonely austere life,,2
+30,gynaecologist,gyne,specialist treats female reproductive and sexual organs,,3
+31,gynaecology,gyne,science of woman,,3
+32,obstetrician,obstetrix,deal with child birth,,3
+33,paediatrician,paidos,deal with treatment of children,,3
+34,pedagogy,paidos,"leading of children to learning,development",,3
+35,pedagogue,paidos,narrow minded,,3
+36,demagogue,demos,a leader who misleads people,,3
+37,dermatologist,derma,specialist who treats all skin diseases,,3
+38,hypodermic,hypos,needle penetrates under the skin,,3
+39,epidermis,derma,outermost layer of skin,,3
+40,taxidermist,derma,"prepares,stuffs and mounts skins of animals",,3
+41,pachyderm,derma,animal with thick skin,,3
+42,dermatitis,derma,"generalname for any skin inflammation,irritation,infection",,3
+43,opthalmologist,opthalmos,"disorders of vision, perscribe glasses, administer drugs,perform surgery",,3
+44,optometrists,metron,they measure vision,,3
+45,oculist,oculus,earlier title for this physician,,3
+46,ocular,oculus,pertaining to the eye,,3
+47,monocle,oculus,a lens for one eye,,3
+48,binoculars,oculus,field glasses that increases range of two eyes,,3
+49,inoculate,oculus,a puncture or hole made in skin through which serum is injected,,3
+50,orthopaedist,orthos,"deal with bones and joints, treatment of skeletal deformities",,4
+51,orthodontist,orthos,"straighting of teeth,braces",,4
+52,odontos,orthos,tooth,,4
+53,cardiologist,kardia,treats disorders of heart and circulatory system,,4
+54,cargiogram,kardia,record of heart beats,,4
+55,cardiograph,kardia,instrument for recording heartbeats,,4
+56,cardiac,kardia,pertaining to heart,,4
+57,neurologist,neuron,"treats disorders of brain,spinal cord and nervous system",,4
+58,neuralgia,neuron,nerve pain,,4
+59,neuritis,neuron,inflammation of nerves,,4
+60,neurosis,neuron,"emotional disturbance, personality disorder",,4
+61,neurotic,neuron,person suffering from neurosis,,4
+62,psychosis,psyche,full-blown mental disorder or unbalance,,5
+63,psychiatrist,psyche,treats personality disorders,,5
+64,psychiologist,psyche,one who studies mind,,5
+65,psychic,psyche,"extrasensory, sixth-sense, mysterious aptitudes",,5
+66,pyschopathic,psyche,"severe mental or emotional disorder, performs criminal activities without axiety or guilt",,5
+67,sociopath,psyche,absence of social conscience,,5
+68,psychosomatic,psyche,describing the interaction of mind and body,,5
+69,psychoanalysis,psyche,psychological treatment based on sigmund freud's techniques,,5
+70,psychogenic,psyche,originating in mind or emotions,,5
+71,psychotherapy,psyche,treatment of psychogenic or emotional or personality disorder,,5
+72,psychotherapist,psyche,practitioner of psychotherapy,,5
+73,orthodonist,odontos,speciality of tooth straightening,,6
+74,periodontist,peri,gum specialist,,6
+75,endodontist,edon,"pulp of tooth, root-canal therapy",,6
+76,exodontist,exo,tooth extraction,,6
+77,thermometer,therme,instrument to measure heat,,6
+78,barometer,baros,instrument to measure atmospheric pressure,,6
+79,sphygmomanometer,sphygmos,device for measuring blood pressure,,6
+80,osteopath,osteon,curing diseases by massage,,6
+81,osteopathy,osteon,speciality arising from the theory that pressure of bones on nerves and blood vessels cause disease,,6
+82,osteopathic,osteon,"practitioner , is not a bone specialist",,6
+83,chiropractor,cheir,"joints and articulation, spinal column -they heal with their hands",,6
+84,chirography,cheir,handwriting,,6
+85,chiromancy,cheir,palm reading,,6
+86,chiropodist,cheir,treats minor foot aliments,,6
+87,octopus,pous,eight-armed sea creature,,6
+88,platypus,platys,"water mammals with duck's bill,webbed-feet and a beaver like tail",,6
+89,podium,ium,speaker's platform,,6
+90,tripod,tri,a 3 legged stand for a camera or device,,6
+91,podiatrist,podos,another name for chiropodist,,6
+92,calligraphy,graphein,beautiful writing,,6
+93,cacography,kako,"bad, scrawly hand writing",,6
+94,callipygian,pyge,snapely  or attractive rear end,,6
+95,photograph,photos,written by light,,6
+96,telegraph,tele,distance writer,,6
+97,phonograph,phone,sound writer,,6
+98,biography,bios,written about someone's life,,6
+99,senile,senex,signs of physical or mental detioriation,,6
+100,senscent,escent,"aging, growing old",,6
+101,adolescent,escent,growing into an adult,,6
+102,convalescent,escent,growing healthy again,,6
+103,obsolescent,escent,growing or becoming obsolete,,6
+104,senior,senex,older,,6
+105,senate,senex,"originally a council of older, citizens , presumably wiser",,6
+106,nomos,nomos,"arrangement, law, order",,7
+107,astronomer,astron,arrangement of stars and other celestial bodies,,7
+108,astronomy,astron,science of heavens,,7
+109,astronomical,astron,applied to tremendously large figures,,7
+110,astrology,astron,asseses the influence of stars and planets on human events,,7
+111,astronaut,astron,sailor of the universe,,7
+112,aster,astron,a star shape flower,,7
+113,asterisk,astron,a star shaped symbol,,7
+114,astrophysics ,astron,branch of physics deal with heavenly bodies,,7
+115,disaster,dis,great misfortune,,7
+116,autonomy,autos,"self-law , self-government",,7
+117,metronome,metron,instrument to measure musical time,,7
+118,geologist,geo,science of the composition of the earth,,7
+119,geometry,geo,measurement of earth,,7
+120,geography,geo,writing about or mapping the earth,,7
+121,george,geo,"earth-worker, farmer",,7
+122,biologist,bios,the study of life,,7
+123,autobiography,bios,the story of one's life by one self,,7
+124,biopsy,bios,medical examination or view,,7
+125,botanist,botane,botany- science of plants,,7
+126,zoologist,zoion,zoology- scienece of animal life,,7
+127,zodiac,zoion,"a digram used in astrology of paths of sun , moon",,7
+128,entomology,tome,branch of zoology dealing with insects,,8
+129,tonsillectomy,tome,to remove tonsils,,8
+130,appendectomy,tome,to remove appendix,,8
+131,masterctomy,tome,to remove breast,,8
+132,hysterectomy,tome,to remove uterus,,8
+133,prostatectomy,tome,to remove prostate,,8
+134,eccentricity,kentorn,"strageness, oddness, unconventionality",,8
+135,atom,atom,smallest element which can not be cut any further,,8
+136,anatomy,tome,cutting up a plant or animal,,8
+137,dichotomy,dicha,splitting into two,,8
+138,dichotomous,dicha,thinking-sort of diides everything in two parts- good and bad,,8
+139,epitome,epi,"summary, condensation",,8
+140,philology,philein,the love of words,,8
+141,philanthropy,philein,love for mankind,,8
+142,philander,philein,to play arround sexually,,8
+143,philosophy,philein,love of wisdom,,8
+144,philadellphia,philein,city of brotherly love,,8
+145,philharmonic,philein,love for music or harmony,,8
+146,phitre,philein,a love potion,,8
+147,aphrodisiac,aphrodite,"today,we call whatever arises from sexual desires",,8
+148,bibliophile,biblion,"loves books as collections, a book collection",,8
+149,anglophile,anglus,"admires and fond of british people, culture, customs",,8
+150,semanticist,semantics,"subtle,  elusive relationship between meaning and words",,8
+151,sociologist,socius,companion,,8
+152,asocial,socius,self-centred,,8
+153,antisocial,socius,actively dislikes people,,8
+154,notorius,notus,unreliable statements,,9
+155,noted,notus,an admirer of business call,,9
+156,summit,summus,highest top of mountain,,9
+157,consummate,summus,"great skill, perfect",,9
+158,incorrigible,corrigo,impervious to rehabilitation,,9
+159,inveterate,vetus,lying has become deep rooted habit,,9
+160,veteran,vetus,armed forces- grew old serving country,,9
+161,genetics,genesis,transmission of heredity from parent to child,,9
+162,genealogy,genesis,study to familty tree,,9
+163,genital,genesis,sexual organs involed in process of birth,,9
+164,genesis,genesis,1st book of old testament- birth of universe,,9
+165,congenital,genesis,defect- occurs during 9 month process,,9
+166,hereditary,genesis,acquired at the moment of conception,,9
+167,chronic,chronos,lies constantly ,,9
+168,anachronism,chronos,someone or something out of time,,9
+169,incongruous,chronos,out of place,,9
+170,chronological,chronos,science of time and order,,9
+171,chronometer,chronos,highly accurate timepiece,,9
+172,synchronize,chronos,time together,,9
+173,pathological,pathos,irresistable compulsion to lie,,9
+174,pathology,pathos,science or study of disease,,9
+175,sympathy,pathos,a sharing or understanding of other's feeling,,10
+176,antipathy,pathos,"feel against people,  strong dislike",,10
+177,apthay,pathos,"no feeling at all, lack of interest",,10
+178,empathy,pathos,identification with other's feeling,,10
+179,pathetic,pathos,"suffering , arousing sympathy or pity",,10
+180,telepathy,pathos,feel each other's thoughts from a distance,,10
+181,conscience,scio,knowledge with a moral sense of right or wrong,,10
+182,unconsionable,scio,lack of regret or remorse,,10
+183,consious,scio,knowledge of one's emotions or what is going on around,,10
+184,science,scio,systemized knowledge,,10
+185,omniscient,scio,"all knowing, possesed of infinite knowledge",,10
+186,prescient,scio,possesed of unusual power of prediction,,10
+187,nescient,scio,"not-knowing, ignorant",,10
+188,glib,glib,smooth and slippery,,10
+189,egregious,gregis,outstandingly had or viscious,,10
+190,gregarious,gregis,"prefer to be with herd, friends, human contact",,10
+191,congregate,gregis,religious group ,,10
+192,segregate,gregis,exclusion fromherd,,10
+193,aggregate,gregis,"to come together or towards the herd, gather into a mass",,10
+194,parity,par,equality,,11
+195,disparage,par,defame,,11
+196,disparity,par,lack of equality,,11
+197,disparate,par,complete difference or ineuality,,11
+198,compare,par,"measure, note the similarity or dissimilarity between",,11
+199,pair,par,a set of two things,,11
+200,peers,par,those equal to you ,,11
+201,equivocate,aequus,"purposefully, deliberately",,11
+202,unequivocal,aequus,either a yes or a no,,11
+203,ambiguous,,quality of being open to misinterpretation,,11
+204,double entendre,,double meaning,,12
+205,euity,,"justice, fairness",,12
+206,inequity,,"injustice, unfairness",,12
+207,iniquity,,"sin, vice",,12
+208,equinox,,"equal night, when days and night are of equal length",,12
+209,nocturnal,,flourist at night than in day,,12
+210,equanimity,,equal mind,,12
+211,equability,,a person with equable temper,,12
+212,equilibrium,,physical balance,,12
+213,euilibrist,,rightrope walker,,12
+214,equestrain,,horseback riding,,12
+215,equestruenne,,a woman on a house,,12
+216,vociferous,,carrying voice,,12
+217,vocal,,express yourself readily and freely by voice,,12
+218,vocalize,,give voice to,,12
+219,vocalist,,singer,,12
+220,titillate,,to ticke,,13
+221,compliment,fawn upon,pleasant and courteous expression of praise,,13
+222,flattery,fawn upon,stronger than compliment and considered insincere,,13
+223,adulation,fawn upon,flattery and workship carried to an ridiculous degree,,13
+224,proscribe,scribo,"to forbid,  prohibit",,13
+225,scribble,scribo,,,13
+226,prescribe,,,,13
+227,subscribe,,,,13
+228,the scripturers,,holy writing,,13
+229,inscribe,,to write in or into,,13
+230,postcript,,something written after main part is finished,,13
+231,manuscript,,something hand written,,13
+232,via appia,via,was one of the famous highways of ancient roman,,13
+233,obvious,via,right there in the middle of the road where no one can miss to see it,,13
+234,obviate,via,to make unnecessary,,13
+235,trivial,via,unimportant ,,13
+236,militate,militis,tights against you,,13
+237,militant,militis,aggressive,,13
+238,malign,malus,"bad, harmful, evil, hateful",,13
+239,malignant,malus,one showing deep hatred,,13
+240,malignancy,malus,medically is a cancerous growth,,13
+241,malidication,malus,a curse ,,13
+242,malevolent,malus,wishing evil or harm,,13
+243,maleficent,malus,doing harm or evil,,13
+244,malefactor,malus,"a criminal, an evildoer",,13
+245,malefiction,malus,"a crime, an evil deed",,14
+246,maladroit,malus,"clumsy, unskilful",,14
+247,malaise,malus,"bodily discomfort, mild illness",,14
+248,bonus,bene,good,,14
+249,benign,bene,kind,,14
+250,benignant,bene,,,14
+251,benignancy,bene,,,14
+252,benediction,bene,a blessing,,14
+253,beneficent,bene,doing good,,14
+254,enefactor,bene,"who does good thing for others, helping",,14
+255,benefactress,bene,woman who hepls others,,14
+256,benevolent,bene,wish them well,,14
+257,bonbon,bene,a sweet,,14
+258,bonafide,bene,"in good faith, valid",,14
+259,infidel,bene,has no right to faith or religion,,14
+260,fido,bene,stereoptypical name of dog,,14
+261,dictate,dictus,,,14
+262,predict,dictus,to tell beforehand,,14
+263,dictaphone,dictus,,,14
+264,contradict,dictus,to say against,,14
+265,addiction,dictus,a saying to or towords,,15
+266,factory,factus,a place where things are made,,15
+267,fact,factus,something done,,15
+268,fiction,factus,something made up or invented,,15
+269,manufacture,factus,to make by hand,,15
+270,clarify,,to make clear,,15
+271,simplify,,to make simple,,15
+272,liquefy,,to make liquid,,15
+273,magnify,,to make large,,15
+274,voluntary,volo,,,15
+275,involuntary,volo,,,15
+276,volunteer,volo,,,15
+277,volition,volo,act or power of willing or wishing,,15
+278,placate,plac,turn hostile to friendly,,15
+279,implacable,plac,"anyielding to entreaty or pity, harsh",,15
+280,placable,plac,who can be soothed,,15
+281,placid,plac,easy going,,15
+282,complacent,plac,you are pleased with yourself,,15
+283,condone,dono,"to forgive, overlook, pardon",,15
+284,donate,dono,to give,,15
+285,donation,dono,gift,,15
+286,donor,dono,one who gives,,15
+287,taciturn,taceo,"silence, unresponsiveness",,15
+288,tacit,taceo,"unspoken, unsaid",,15
+289,reticent,taceo,who prefers to keep silent wheather out of shyness or fear of revealing what should be not be revealed,,15
+290,loquacious,loquor,"talk, talk ,talk!",,15
+291,soliloquy,loquor,a speech to oneself,,15
+292,ventriloquism,loquor,art of speaking from the belly,,15
+293,ventriloquist,loquor,one who can throw his voice,,15
+294,colloquial,loquor,informal language or expression used in everyday conversation,,15
+295,circumlocation,loquor,talking around,,15
+296,eloquent,loquor,"great, artistic, emotional",,15
+297,magniloquent,magus,floweriness,,15
+298,grandiloquent,grandis,elegance in speech,,15
+299,verbose,verbum,Excessive use of words,,15
+300,verbatim,verbum,word to word,,15
+301,verbal,verbum,"oral,spoken",,15
+302,verbiage,verbum,excess of words,,15
+303,voluble,volvo,"fluency, ease",,15
+304,revolve,volvo,aoll again,,15
+305,revolution,volvo,a radical change,,15
+306,involve,volvo,roll in,,15
+307,evolve,volvo,roll out,,15
+308,garrulous,garrio,talk constantly,,15
+309,laconic,loconia,great economy in speech,,15
+310,laconism,loconia,"is also, pithy and concise",,15
+311,cogent,cogo,"logic, claroty",,15
+312,congency,cogo,ability to think clearly and logically,,15
+313,magnanimous,magnus,"big hearted, generous",,15
+314,magnate,magnus,a person of great power of influence,,15
+315,magnify,magnus,to make larger,,15
+316,magnificent,magnus,,,15
+317,magnitude,magnus,,,15
+318,magnum,magnus,a large bottle,,15
+319,magnum opus,magnus,"a big work, greatest work",,15
+320,opera,operp,a no. of works,,15
+321,ventral,venter,front or anterior side,,15
+322,ventricle,venter,a hollow organ or cavity,,15
+323,auricle,venter,receive blood from venis and send it to ventricles,,15
+324,dorsal,dorsum,reverse or back side,,15
+325,endorse,dorsum,to back,,15
+326,avuncular,avunculus,"kind, protctive, give helpful advice",,15
+327,somniferos,somnus,"sleep including carrying, hearing or bringing sleep",,15
+328,insomnia,somnus,inability to fall asleep when required or desired,,15
+329,somnolent,somnus,"sleepy, drowsy",,15
+330,somnabulism,somnus,walking in one's sleep,,15
+331,soparofic,somnus,will put audience to sleep,,15
+332,ambulatory,ambulo,is well enough to get out of bed and walk around,,15
+333,perambulator,ambulo,a baby carraige,,15
+334,perambulate,ambulo,"to walk through, to stroll around",,15
+335,amble,ambulo,to walk aimlessly,,15
+336,preamble,ambulo,walks before,,15
+337,inarticulalte,articulus,trouble joining words,,15
+338,articulate,articulus,to join,,15
+339,banal,banal,unoriginality,,15
+340,martinet,,strict,,16
+341,sycophant,phanein,fig-shower,,16
+342,diaphanous,phanein,transparent plus silky,,16
+343,dilettante,dilettare,"skilful, just for one's own amusement",,16
+344,dilettantish,dilettare,superficial,,16
+345,tyro,,"is a beginner, not skilled but full of ambition ,drive and energy",,16
+346,virtuoso,,has developed consummate skill in artistic field,,16
+347,libretto,,story og an opera,,16
+348,concerto,,a form of musical composition,,16
+349,virago,vir,"aggressive, loud-mouthed",,16
+350,termagant,,"ill-tempered, scolding woman",,16
+351,harridan,,a disreputable old woman,,16
+352,chauvinist,,exaggerate pride and devotion to an obnoxious degree,,16
+353,patriotic,patris,"normally proud of, deoted to, one's country",,16
+354,patrimony,patris,inheritance from one's father,,16
+355,patronymic,patris,named formed on father's name,,16
+356,synonym,,a word of same meaning,,16
+357,antonym,, a word of opposite meaning,,16
+358,homonym,,words that should same but different meaning and spelling,,16
+359,homophone,,same sound,,16
+360,paternity,patris,fatherhood,,16
+361,paternalism,patris,a system in which those in power have a father child relationship woth sunordinates,,16
+362,patriarch,patris,"a venerable, father like old man",,16
+363,patricide,patris,kill one own's father,,16
+364,patrician,patris,"a person of high- birth , nobel born",,16
+365,patron,patris,a financial sponser,,16
+366,patronize,patris,to provide aid or support for,,16
+367,patronizing,patris,showing a superior attitude towards others,,16
+368,paterfamilias,patris,"male head of a household, father of a family",,16
+369,padre,patris,"priest, a military chaplain",,16
+370,matriarch,matris,the mother-ruler,,16
+371,maternity,matris,motherhood,,16
+372,matron,matris,an older woman,,16
+373,alma mater,matris,soul mother,,16
+374,matrimony,matris,marriage,,16
+375,matricide,matris,killing of one's mother,,16
+376,suicide,caedo,killing oneself,,16
+377,fraticide,caedo,killing of one's brother,,16
+378,sororicide,caedo,killing one's sister,,16
+379,homicide,caedo,killing of humsn being,,16
+380,murder,,intent and premeditiation can be proved,,16
+381,manslaughter,,"no such intent, accidently killed",,16
+382,regicide,caedo,killing of a king,,16
+383,uxoricide,caedo,killing of one's wife,,16
+384,mariticide,caedo,killing of one's husband,,16
+385,infanticide,caedo,killing of a newborn child,,16
+386,genocide,caedo,killing of a whole race or nation,,16
+387,parricide,caedo,killing od either or both parents,,16
+388,fraternize,frater,social intercourse between people of any sex,,16
+389,fraternal,frater,"brotherly, non identical twins",,16
+390,fraternity,frater,a brotherhood or guild,,16
+391,sorority,soror,a women's organization,,16
+392,uxorious,uxor,excessively,,16
+393,henpecked,,husband dominated by wife,,16
+394,uxorial,uxor,"pertaining to, charactistic of wife",,16
+395,marital,uxor,pertainign to a characterisitic of a husband,,16
+396,extramarital,uxor,outside the marraige,,16
+397,premarital,uxor,before the marraige,,16
+398,tyrannosaurus,regis,king of dinosaurs,,16
+399,regal,regis,"royal, splendid, fit for king",,16
+400,regalgia,regis,"dress of king, impressive formal clothes",,16
+401,monomaniac,mania,abnormal obsession with respect to one particular thing,,16
+402,dipsomaniia,mania,obsession for alcohol,,16
+403,kleptomania,mania,"obsession to theft, steal",,16
+404,pyromania,mania,"obsession for starting fires, thrill",,16
+405,incendiarism,mania,starts fires for revenge,,16
+406,arson,mania,"in law, setting fire to another's property for money, for economic gain",,16
+407,megalomania,mania,power,,16
+408,nymphomania,mania,"morbid, incessant",,16
+409,sytromania,mania,on part of male,,16
+410,claustrophobia,phobia,morbid dread of being physically,,16
+411,agoraphobia,phobia,morbid dread of open space,,16
+412,acrophobia,phobia,morbid dread of high place,,16
+413,iconoclast,eikon,goes against the widely praticed beliefs,,16
+414,atheist,theos,"disbelief in god, denial of existance of god",,16
+415,agnostic,gnostos,one who claims ultimate reality is unknowable,,16
+416,diagnosis,gnosis,knowing through examination or testing,,16
+417,prognosis,gnosis,knowing beforehand,,16
+418,monotheism,theos,belief in one god,,16
+419,polytheism,theos,belief in many gods,,16
+420,pantheism,theos,god is combo of all forces of universe,,16
+421,theology,theos,study of god and religion,,16
+422,lecher,lechier,he makes sexual advances to everyone's wife and is often sucessful,,16
+423,libidinous,libido,pleasure,,16
+424,lascivious,lascivia,wantonness,,16
+425,lubricious,lubricus,slippery,,16
+426,licentions,licere,to be permitted,,16
+427,lewd,lewd,vile,,16
+428,lustful,,"pleasure, desire",,16
+429,prurient,prurio,"someone filled with great sexual curiosity, desire",,16
+430,pruritis,prurio,itchy skin without a rash or crruptions,,16
+431,hypochondria,hypo,morbid anxiety about health,,16
+432,hypothyroid,hypo,under-working thyroid gland,,16
+433,hypotension,hypo,low blood pressure,,16
+434,hypercritical,hyper,person is excessively fault-finding,,16
+435,hypercension,hyper,high blood pressure,,16
+436,hyperthyroidism,hyper,over working of thyroid gland,,16
+437,hyperacidity,hyper,,,16
+438,hyperactive,hyper,,,16
+439,hypersensitive,hyper,,,16
+440,convivo,vivo,to live together,,17
+441,convivium,vivo,feast or banquet,,17
+442,convivial,vivo,who likes to attend feast or banquet,,17
+443,vivacious,vivo,"full of joy of living, animmated",,17
+444,vivid,vivo,"posses freshness of life, strong, sharp",,17
+445,revive,vivo,bring back to life,,17
+446,vivisection,vivo,operating on live animal or cure of disease,,17
+447,ntivivisectionists,vivo,,,17
+448,viviparous,vivo,producting live babies,,17
+449,oviparous,vivo,producting young from eggs,,17
+450,ovoid,vivo,egg shaped,,17
+451,ovulate,vivo,release egg from ovary,,17
+452,vital,vita,essential to life,,17
+453,revitalize,vita,,,17
+454,devital,vita,to take life from,,17
+455,vitamin,vita,on of many nutritional elements on which life depends,,17
+456,joi de vivre,,joy of living,,17
+457,ennui,,feeling of boredom,,17
+458,bon vivant,,lives luxuriously,,17
+459,gourmand,,enjoys food with sensual pleasure,,17
+460,gourmandize,,stuff oneself like a pig,,17
+461,gourmet,,choosy in food,,17
+462,glution,,eats voraciously be it whatever,,17
+463,fatique,,"weariness or exhaution from labour, stress",,18
+464,indefatigable,,unable to be fatigued,,18
+465,ingenuous,,frank,,18
+466,naie,,inexperienced,,18
+467,gullible,,"easily tricked, fooled",,18
+468,creduious,credo,willing to believe,,18
+469,incredulous,credo,"attitude of scepticism, non-belief",,18
+470,credible,credo,one that can be believed,,18
+471,incredible,credo,so unusual that you can hardly believe,,18
+472,credo,credo,personal belief,,18
+473,creed,credo,a religious belief ,,18
+474,credence,credo,"belief, to believe in",,18
+475,credentials,credo,documents proving person's right to a title,,18
+476,disingenuous,credo,"a wall in sheep's clothing, crafty, dishonest",,18
+477,spectacle,specto,something to look at,,18
+478,spectator,specto,one who looks at what's happening,,18
+479,inspect,specto,to look into something,,18
+480,retrospect,specto,a backward look,,18
+481,prospect,specto,a froward look,,18
+482,prospective,specto,something in the future thay you look forward to,,18
+483,introspect,specto,look inwards,,18
+484,circumspect,specto,"look around, watchful, alert",,18
+485,specious,specto,something look good or sensible but is actually not,,19
+486,perspicacious,spic,keen-minded,,19
+487,perspicacity,spic,"keenly , intelligently",,19
+488,perspicuous,spic,"smart, sharp",,19
+489,acute,acuo,"sharp, sudden",,19
+490,acupuncture,acuo,insertion of a needle into body for medical purpose,,19
+491,puncture,puncture,put various points,,19
+492,punctual,puncture,right on point of time,,19
+493,punctilious,puncture,"exact, scrupulous",,19
+494,pungent,puncture,"sharp, spicy, piercing",,19
+495,pusillanimous,animus,contemtibly petty and mean,,19
+496,unanumous,animus,of one mind,,19
+497,animus,animus,unfriendly mind,,19
+498,animosity,animus,"ill will, hostilify",,19
+499,anima,animus,life principal,,19
+500,versatile,versus,ability either to do many different things well or to funcation succesdully in many areas,,19
+501,stoical,stoa,uncomplaining,,19
+502,trepidation,trepido,"great fear, alarm, trembling",,19
+503,intrepid,trepido,courage,,19
+504,scintillate,scintilla,sparkle with,,19
+505,urbane,urbs,gracious,,19
+506,urban,urbs,simply refers to cities,,19
+507,suburbs,urbs,residential sections,,19
+508,suburbia,urbs,,,19
+509,interurban,urbs,between/ within a single city,,19
+510,exurb,urbs,"well beyound, way outside a large city",,19
+511,rural,ruris,country or farm regions,,19
+512,rustic,ruris,unsophisticated,,19
+513,pejorative,pejor,derogatory connotation,,19
+514,penury,penuria,poverty,,20
+515,penurious,penuria,close-fisted,,20
+516,parsimonious,penuria,stingy,,20
+517,indegence,penuria,not absolutely penniless,,20
+518,destitution,penuria,on verge of starvation,,20
+519,affulence,fluo,"increasing wealth, flow of money",,20
+520,fluid,fluo,,,20
+521,influence,fluo,,,20
+522,cofluence,fluo,,,20
+523,fluent,fluo,,,20
+524,opulence,opulentus,lavish luxury,,20
+525,vicarious,,secondhand,,20
+526,ephemeral,ephemera,short-lived,,20
+527,evanescent,ephemera,staying for a remarkable short time,,20
+528,adolescent,escent,beginning to grew up,,20
+529,evanescent,escent,begin to vanish,,20
+530,convalesce,escent,begin to get well after illness,,20
+531,putrescent,escent,"begin to rot, become putrid",,20
+532,obsolescent,escent,become obsolete,,20
+533,euphimism,eu,something said in good voice,,20
+534,euphony,eu,good sound,,20
+535,eulogy,eu,good speech,,20
+536,euphoria,eu,good feeling,,20
+537,euthanasia,eu,good death,,20
+538,baninage,,banter,,20
+539,persiflage,,friendly teasing,,20
+540,cliché,,hacknayed phrase,,20
+541,bromide,,"dull, a drug used as sedative",,20
+542,platitude,,flat or dull,,20
+543,anodyne,,a drug that allays pain with curing illness,,20
+544,borine,bovis,"placid like a cow, patient",,20
+545,phelgmatic,,,,20
+546,leonine,leo,like a lion in appearance or temperament,,20
+547,canine,canis,like a dog,,20
+548,feline,felis,cat like,,20
+549,porcine,porcus,pig like,,20
+550,vulsine,valpus,"fox like, shrewdness of a fox",,20
+551,ursine,ursus,bear like,,20
+552,lupine,lupus,wolf like,,20
+553,equine,equs,horse like,,20
+554,piscine,piscis,fish like,,20
+555,ursula,,a little bear,,20
+556,nostalgia,nostos,,,20
+557,cacophony,kakos,"harsh-sounding, ear-offending",,20
+558,cacopsis,kakos,eye offending,,20
+559,telephone,phone,sound from a far,,20
+560,eaphony,phone,pleasant sound,,20
+561,phonograph,phone,writer of sound,,20
+562,saxophone,phone,a musical instrument,,20
+563,xylophone,phone,a musical instrument -  sounds through wood,,20
+564,phonetics,phone,science of sounds of language,,20
+565,phonetician,phone,expert of phonetics,,20
+566,phonics,phone,science of sounds,,20
+567,carnivorous,voro,one whose main diet is meat,,20
+568,herbivorous,voro,"subsisting on grains, grasses",,20
+569,omnivorous,voro,eats both,,20
+570,voracious,voro,"devouring, greedy ",,20
+571,omnipotent,omnis,all powerful god,,20
+572,potentate,omnis,a powerful ruler,,20
+573,impotent,omnis,powerless,,20
+574,potentate,omnis,powerful,,20
+575,potential,omnis,possesing power or ability not yet exercised,,20
+576,omniscient,omnis,"all knowing,infinitely wise",,20
+577,omnipresent,omnis,present in all places at once,,20
+578,ubiquitous,omnis,,,20
+579,omnibus,omnis,"for all, including all",,20
+580,carnelian,carnis,a reddish gemstone,,20
+581,carnival,carnis,,,20
+582,carnal,carnis,signifying pleasures or appetites of flash,,20
+583,carnage,carnis,great destruction of life as in war,,20
+584,reincarnation,carnis,a rebirth or reappearance,,20
+585,incarnate,carnis,in the flesh,,20
+586,clandestine,clam,,,20
+587,surreptitious,clam,"stealthy, sneaky",,20
+588,enervate,,"complete devitalization- physical , emotional, mental",,21
+589,energy,,work,,21
+590,synergism,,working together for a greater affect,,21
+591,castigate,,"rant at, lash out at",,21
+592,abnegate,nego,,,21
+593,self-abnegate,nego,self-denial,,21
+594,negate,nego,to deny the truth or existence of,,21
+595,capital,capitis,head city,,21
+596,decapitate,capitis,chop someone's head,,21
+597,recapitulate,capitis,summarize or review main points,,21
+598,capitulate,capitis,stop resisting and give up,,21
+599,vegetable,vegeto,just stay alive,,21
+600,simulate,simulo,copying the real thing,,21
+601,dissimulation,simulo,hide your true feelings by pretending opposite feelings,,21
+602,dissemble,simulo,to conceal facts or true intentions by deception,,21
+603,intimate,intimus,a hint,,21
+604,alleviate,levis,"made lighter, less burdensome",,21
+605,elevate,levis,"to raise out, to raise up",,21
+606,levitate,levis,to rise,,21
+607,levity,levis,"lightness but in sense of frivolity, joking or lack of seriousness",,21
+608,commiserate,miser,a sharing of greif,,21
+609,vacillate,vacillo,swing back and forth in indecision,,21
+610,ambivalence,vacillo,conflict and simultaneous emotions about same thing,,21
+611,obsequies,sequor,"burial ceremonies, funeral rites",,21
+612,subsequent,sequor,one that follows another,,21
+613,sequel,sequor,follows another continuing same subject,,21
+614,sequence,sequor,in order,,21
+615,obsiquious,sequor,full of following after,,21
+616,querulous,querror,"full of complaints, constantly nagging",,21
+617,siupercilious,cilium,"snobbish, above eyelid",,21
+618,obstreperous,strepo,"unruly, boisterous",,22
+619,impecunious,pecus,short of funds,,22
+620,pecuniary,pecus,pertaining to money,,22
+621,chivalrous,cheval,self-sacrificing,,22
+622,cavalcade,caval,parade pf persons on horseback,,22
+623,cavalier,caval,"hsughty attitude, unmindful of other's feelings",,22
+624,cavalry,caval,horsed part of an army,,22
+625,chivalry,cheval,,,22
+626,chivslric,cheval,,,22
+627,equestraian,equus,,,22
+628,equestrienne,equus,,,22
+629,equine,equus,,,22
+630,innocuous,noceo,"no fear from, harmless",,22
+631,innocent,noceo,not guilty of crime or injury,,22
+632,noxious,noceo,"harmful, poisonous",,22
+633,bibulous,bibo,"alcoholic overfondness of drink, usually found at bar",,22
+634,imbibe,bibo,to drink in,,22
+635,bib,bibo,upper part of an apron or apron like napkin prevents what is drunk from spilling over,,22
+636,cadaverous,cado,"gaunt, thin, haggard",,22
+637,cadaverous,cado,"a corpse, used for dissection , dead body",,22
+638,decadent,cado,"falling down, moral or spiritual decay",,22
+639,dolour,doleo,poetic synonym of grief,,22
+640,dolorous,doleo,"mournfyl,sad, sorrowful",,22
+641,doleful,doleo,"humorously exaggerated dismalness, sadness",,22
+642,condole,doleo,to suffer or grieve with,,22

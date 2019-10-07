@@ -1,6 +1,13 @@
+import 'dart:convert';
+import 'dart:io';
+
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:csv/csv.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_app/screens/home_page.dart';
 import 'package:flutter_app/screens/session_page.dart';
+import 'package:path_provider/path_provider.dart';
 
 //import 'package:login/primaary_button.dart';
 //import 'auth.dart';
@@ -20,7 +27,48 @@ class _LoginPageState extends State<LoginPage> {
 
   void initState() {
     super.initState();
-    myController.addListener(validate);
+    // myController.addListener(validate);
+  }
+
+//   fire() async {
+//     final filename = 'myexcel.csv';
+//     var bytes = await rootBundle.load("assets/exceldemo.csv");
+//     String dir = (await getApplicationDocumentsDirectory()).path;
+//     File f = await writeToFile(bytes, '$dir/$filename');
+// //write to app path
+
+//     final input = f.openRead();
+//     final fields = await input
+//         .transform(utf8.decoder)
+//         .transform(new CsvToListConverter())
+//         .toList();
+
+//     print(fields.toString());
+
+//     for (int i = 1; i < fields.length; i++) {
+//       Firestore.instance
+//           .collection('word_dict')
+//           .document("${fields[i][0]}_${fields[i][1]}")
+//           .setData({
+//         'id': fields[i][0],
+//         'name': fields[i][1],
+//         'root': fields[i][2],
+//         'meaning': fields[i][3],
+//         'example': fields[i][4],
+//         'session_id': fields[i][5],
+//       });
+//     }
+
+//     // Firestore.instance
+//     //     .collection('word_dict')
+//     //     .getDocuments()
+//     //     .then((d) => d.documents.forEach((f) => f.reference.delete()));
+//   }
+
+  Future<File> writeToFile(ByteData data, String path) {
+    final buffer = data.buffer;
+    return new File(path).writeAsBytes(
+        buffer.asUint8List(data.offsetInBytes, data.lengthInBytes));
   }
 
   @override
