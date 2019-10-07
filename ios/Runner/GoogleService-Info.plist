@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>72694312759-e6es5eiuehi3k0hpfmftvoh99kmrqfp0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.72694312759-e6es5eiuehi3k0hpfmftvoh99kmrqfp0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>72694312759-7s04rqoq1katme56ndhfmf5b9l2d3da9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFQmn_Ii20dqv4ZMmpx7mTYCyffr_LIys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>72694312759</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nl.wordpowermadeeasy</string>
+	<key>PROJECT_ID</key>
+	<string>word-power-made-easy-1926</string>
+	<key>STORAGE_BUCKET</key>
+	<string>word-power-made-easy-1926.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:72694312759:ios:40798b235c44dbd78234b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://word-power-made-easy-1926.firebaseio.com</string>
+</dict>
+</plist>
